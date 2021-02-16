@@ -185,7 +185,7 @@
             document.getElementById("cntr").style.borderColor="rgb(17, 247, 255)";
            //document.getElementById("cntr").style.boxShadow="0 1px 5px 2px rgb(255, 251, 0)";
            document.getElementById("lnk").style.visibility="visible";
-           document.getElementById("lnk").href="https://xhamster5.desi/";
+           
             }
         }
         function iglow(){
@@ -212,7 +212,7 @@
             document.getElementById("cntr").style.borderColor="rgb(17, 247, 255)";
             //document.getElementById("cntr").style.boxShadow="0 1px 5px 2px rgb(89, 0, 255)";
             document.getElementById("lnk").style.visibility="visible";
-            document.getElementById("lnk").href="imageCompress.php";
+            document.getElementById("lnk").href="image.php";
             } 
         }
         function aglow(){
@@ -239,7 +239,7 @@
             document.getElementById("cntr").style.borderColor="rgb(17, 247, 255)";
             //document.getElementById("cntr").style.boxShadow="0 1px 5px 2px rgb(255, 0, 234)";
             document.getElementById("lnk").style.visibility="visible";
-            document.getElementById("lnk").href="https://xhamster5.desi/";
+            
             }
         }
         
